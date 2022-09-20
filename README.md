@@ -8,4 +8,4 @@
 
 ## Usage
 swift build
-cat runningTimes.txt | .build/debug/cron-parser 09:30
+cat runningTimes.txt | .build/debug/swift-parser 09:30
